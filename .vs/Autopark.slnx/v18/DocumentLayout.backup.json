@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|c:\\users\\angelafox\\desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\autopark\\autopark\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\createrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\createrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\createrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\createrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\models\\maintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\models\\maintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\autopark\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF5863-B4A0-46B7-AFA3-1AB1DA54A3B4}|Autopark\\Autopark.csproj|solutionrelative:autopark\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Autopark\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Autopark\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:54:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Autopark\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\App.xaml.cs",
+              "RelativeToolTip": "Autopark\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:09:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\App.xaml",
+              "RelativeDocumentMoniker": "Autopark\\App.xaml",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\App.xaml",
+              "RelativeToolTip": "Autopark\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T06:09:36.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Autopark\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\MainWindow.xaml",
+              "RelativeToolTip": "Autopark\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T05:43:18.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\App.config",
+              "RelativeDocumentMoniker": "Autopark\\App.config",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\App.config",
+              "RelativeToolTip": "Autopark\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-18T06:27:27.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Autopark\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Autopark\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:43:17.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Autopark\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\Models\\User.cs",
+              "RelativeToolTip": "Autopark\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:45:49.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Autopark\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\LoginWindow.xaml",
+              "RelativeToolTip": "Autopark\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T05:50:48.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\Database.cs",
+              "RelativeDocumentMoniker": "Autopark\\Database.cs",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\Database.cs",
+              "RelativeToolTip": "Autopark\\Database.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:46:39.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateRequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\CreateRequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Autopark\\CreateRequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\CreateRequestWindow.xaml.cs",
+              "RelativeToolTip": "Autopark\\CreateRequestWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:08:35.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateRequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\CreateRequestWindow.xaml",
+              "RelativeDocumentMoniker": "Autopark\\CreateRequestWindow.xaml",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\CreateRequestWindow.xaml",
+              "RelativeToolTip": "Autopark\\CreateRequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T06:07:50.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaintenanceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\Models\\MaintenanceRequest.cs",
+              "RelativeDocumentMoniker": "Autopark\\Models\\MaintenanceRequest.cs",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\Models\\MaintenanceRequest.cs",
+              "RelativeToolTip": "Autopark\\Models\\MaintenanceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:45:08.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Autopark\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\AngelaFox\\Desktop\\\u043B\u0430\u0437\u0430\u0440\u0435\u0432(\u043D\u0435 \u0441\u0435\u0440\u0433\u0435\u0439)\\Autopark\\Autopark\\Models\\Car.cs",
+              "RelativeToolTip": "Autopark\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:44:26.67Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
